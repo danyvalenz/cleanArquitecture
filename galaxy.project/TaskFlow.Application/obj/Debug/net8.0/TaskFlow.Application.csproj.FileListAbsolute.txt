@@ -1,0 +1,15 @@
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Application.deps.json
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Application.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Application.pdb
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Domain.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\bin\Debug\net8.0\TaskFlow.Domain.pdb
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.csproj.AssemblyReference.cache
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.AssemblyInfoInputs.cache
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.AssemblyInfo.cs
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.7EAD9043.Up2Date
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\refint\TaskFlow.Application.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\TaskFlow.Application.pdb
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Application\obj\Debug\net8.0\ref\TaskFlow.Application.dll

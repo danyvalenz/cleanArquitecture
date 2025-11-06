@@ -1,0 +1,17 @@
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\bin\Debug\net8.0\TaskFlow.Infrastructure.deps.json
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\bin\Debug\net8.0\TaskFlow.Infrastructure.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\bin\Debug\net8.0\TaskFlow.Infrastructure.pdb
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\bin\Debug\net8.0\TaskFlow.Application.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\bin\Debug\net8.0\TaskFlow.Domain.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\bin\Debug\net8.0\TaskFlow.Application.pdb
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\bin\Debug\net8.0\TaskFlow.Domain.pdb
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.635E8F59.Up2Date
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.Infrastructure.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\refint\TaskFlow.Infrastructure.dll
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\TaskFlow.Infrastructure.pdb
+C:\Users\Daniel Valenzuela\source\repos\galaxy.project\TaskFlow.Infrastructure\obj\Debug\net8.0\ref\TaskFlow.Infrastructure.dll
